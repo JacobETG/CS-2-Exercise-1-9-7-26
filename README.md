@@ -9,7 +9,7 @@ This program asks users to enter a whole number, where it will then determine if
 ## Input Neeeded
 -num1
 
-##Sample Output
+## Sample Output
 Enter a whole number: 144
 144 is even.
 
