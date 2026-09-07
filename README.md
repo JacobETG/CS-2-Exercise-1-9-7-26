@@ -10,11 +10,11 @@ This program asks users to enter a whole number, where it will then determine if
 -num1
 
 ## Sample Output
-Enter a whole number: 144
-144 is even.
+- Enter a whole number: 144
+- 144 is even.
 
-## Author
-Name: Jacob Ezekiel T. Guadalquiver
-Institution: Philippine Science High School - Davao Region Campus in Davao City
-Section: 8 - Dahlia
+## Author's Details
+- Name: Jacob Ezekiel T. Guadalquiver
+- Institution: Philippine Science High School - Davao Region Campus in Davao City
+- Section: 8 - Dahlia
 
