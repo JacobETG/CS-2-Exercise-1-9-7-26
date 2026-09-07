@@ -13,8 +13,7 @@ This program asks users to enter a whole number, where it will then determine if
 - Enter a whole number: 144
 - 144 is even.
 
-## Author's Details
+## Author
 - Name: Jacob Ezekiel T. Guadalquiver
-- Institution: Philippine Science High School - Davao Region Campus in Davao City
 - Section: 8 - Dahlia
 
