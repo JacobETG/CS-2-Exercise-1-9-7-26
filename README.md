@@ -7,7 +7,7 @@ This program asks users to enter a whole number, where it will then determine if
 3. Enter num1/whole number
 
 ## Input Neeeded
--num1
+- num1
 
 ## Sample Output
 - Enter a whole number: 144
